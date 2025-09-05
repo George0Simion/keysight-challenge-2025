@@ -1,0 +1,6 @@
+/keyseight/build/CMakeFiles/edit_cache.dir
+/keyseight/build/CMakeFiles/rebuild_cache.dir
+/keyseight/build/src/CMakeFiles/gpu-router.dir
+/keyseight/build/src/CMakeFiles/run.dir
+/keyseight/build/src/CMakeFiles/edit_cache.dir
+/keyseight/build/src/CMakeFiles/rebuild_cache.dir
